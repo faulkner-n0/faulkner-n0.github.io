@@ -1,0 +1,16 @@
+name: faulkner_n0
+description: Hacking / Security / Thoughts / Learnings
+meta_description: "faulkner_n0 | Hacking / Security / Thoughts / Learnings"
+
+markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'https://www.faulkner-n0.com'
+google_analytics: 'UA-XXXXXXXX-X'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'https://www.faulkner-n0.com'
+author:         'faulkner_n0'

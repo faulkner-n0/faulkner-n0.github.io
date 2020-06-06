@@ -7,11 +7,12 @@ highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'faulkner-n0.com'
+domain_name: '  faulkner-n0.com'
 google_analytics: 'UA-168741590-1'
-gems: [jekyll-paginate]
+#gems: [jekyll-paginate]
 
 plugins:
+  - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag

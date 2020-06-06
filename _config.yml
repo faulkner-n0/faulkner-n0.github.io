@@ -7,10 +7,15 @@ highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'https://www.faulkner-n0.com'
+domain_name: 'faulkner-n0.com'
 google_analytics: 'UA-168741590-1'
 gems: [jekyll-paginate]
 
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
 # Details for the RSS feed generator
-url:            'https://www.faulkner-n0.com'
+url:            'https://faulkner-n0.com'
 author:         'faulkner_n0'

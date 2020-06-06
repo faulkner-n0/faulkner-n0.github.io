@@ -3,12 +3,12 @@ description: Hacking / Security / Thoughts / Learnings
 meta_description: "faulkner_n0 | Hacking / Security / Thoughts / Learnings"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
 domain_name: 'https://www.faulkner-n0.com'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-168741590-1'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
